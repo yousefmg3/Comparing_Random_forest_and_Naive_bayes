@@ -1,6 +1,6 @@
 All matlab files can be run, model building parts commented out for convenience.
 
-poster.pdf - PDF of poster comparing models
+Comparison of random forest and naive bayes.pdf - PDF of poster comparing models
 
 coursework.m - Contains all code of initial analysis as well as code producing histograms and ROC curve
 
